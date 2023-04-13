@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI3LocalizerCalendarDatePickerSampleApp (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI3LocalizerCalendarDatePickerSampleApp (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
